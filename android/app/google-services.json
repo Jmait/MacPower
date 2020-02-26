@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "741217087356",
+    "firebase_url": "https://macpower-27d0e.firebaseio.com",
+    "project_id": "macpower-27d0e",
+    "storage_bucket": "macpower-27d0e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:741217087356:android:10b62237210042ae2b3ef9",
+        "android_client_info": {
+          "package_name": "com.macenergr.macpower.mac_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "741217087356-2s094h53h2uq8aj3se1r9snub1dfrvq1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBycmILAnfZzoeULy_jkaGIaIRBt-tZAQU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "741217087356-2s094h53h2uq8aj3se1r9snub1dfrvq1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
